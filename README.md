@@ -25,6 +25,10 @@ Step 7: Save and run the application.
 
 
 ## PROGRAM:
+```
+DEVELOPED BY : Deeksha P
+REGISTER NO: 212222040031
+```
 ## MainActivity.java:
 ```java
 package com.example.helloworld;
@@ -98,11 +102,29 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## OUTPUT:
-![Output](Op1-java1.jpg)
+OnCreate Executed:
 
-![Output](Op2-java1.jpg)
+![image](https://github.com/user-attachments/assets/cc7b499d-e13b-4b39-a392-9b13c0b18c45 )
 
-![Output](Op3-java1.jpg)
+
+OnPause Executed:
+
+![image](https://github.com/user-attachments/assets/d2c9b511-035a-4c95-9402-accd6bcb1d48)
+
+
+OnResume Executed:
+
+![image](https://github.com/user-attachments/assets/5ce61826-008b-4ee5-b307-99fe082ee68e)
+
+
+OnRestart Executed:
+
+![image](https://github.com/user-attachments/assets/74bd7715-11c9-4f07-bb22-532cb094ef6b)
+
+OnStart Executed:
+
+![image](https://github.com/user-attachments/assets/23317fdf-981e-43de-9497-30a0b62e2c60)
+
 
 ## RESULT:
 Thus a program to implement the various life cycles of an activity is written and successfully executed using Android Studio.
